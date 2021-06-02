@@ -33,9 +33,9 @@ On the cloudburst side:
     If everything works, your next challenge is to get Minecraft Earth to talk to your Api. If you're on Android, you can utilize our patcher. If you're on IOS, the only way to accomplish this without jailbreak is to utilize a DNS, such as bind9. Setup for that goes beyond the scope of this guide
 # Link to resourse repo
 
-1.Jenkis with files https://ci.rtm516.co.uk/job/ProjectEarth/
-2.Cloudburst https://ci.opencollab.dev//job/NukkitX/job/Server/job/master/
-3.Data import from offical server before 30.06.2021 import.projectearth.dev
-4.Page project earth https://projectearth.dev/
-5.Github https://github.com/Project-Earth-Team
-6.Resourse https://github.com/mateale1234/Minecraft-Earth-resourse
+1.Jenkis with files: https://ci.rtm516.co.uk/job/ProjectEarth/
+2.Cloudburst: https://ci.opencollab.dev//job/NukkitX/job/Server/job/master/
+3.Data import from offical server before 30.06.2021; import.projectearth.dev
+4.Page project earth: https://projectearth.dev/
+5.Github: https://github.com/Project-Earth-Team
+6.Resourse: https://github.com/mateale1234/Minecraft-Earth-resourse

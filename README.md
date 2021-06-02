@@ -1,7 +1,7 @@
 # Minecraft-Earth-android-remaster
 Files and configuration for minecraft earth android after June 30, 2021
 
-Setting up the Minecraft Earth server infrastructure.
+# Setting up the Minecraft Earth server infrastructure.
 Getting all the parts
 
 to start, ensure that you have built copies of all the required components downloaded:
@@ -30,5 +30,6 @@ On the cloudburst side:
     Start up the Api
     Start up cloudburst. After a short while the Api should mention a server being connected.
     If you run into issues, retrace your steps, or contact us on discord
-    If everything works, your next challenge is to get Minecraft Earth to talk to your Api. If you're on Android, you can utilize our patcher. If you're on IOS, the only way to accomplish this without jailbreak is to utilize a DNS, such as bind9. Setup for that goes beyond the scope of this guide.
-
+    If everything works, your next challenge is to get Minecraft Earth to talk to your Api. If you're on Android, you can utilize our patcher. If you're on IOS, the only way to accomplish this without jailbreak is to utilize a DNS, such as bind9. Setup for that goes beyond the scope of this guide
+# Link to resourse repo
+https://github.com/mateale1234/Minecraft-Earth-resourse

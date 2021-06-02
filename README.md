@@ -1,6 +1,7 @@
 # Minecraft-Earth-android-remaster
 Files and configuration for minecraft earth android after June 30, 2021
-Setting up the Project Earth server infrastructure.
+
+Setting up the Minecraft Earth server infrastructure.
 Getting all the parts
 
 to start, ensure that you have built copies of all the required components downloaded:

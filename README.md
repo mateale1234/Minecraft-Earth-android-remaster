@@ -51,3 +51,5 @@ https://github.com/Project-Earth-Team
 6.Resourse: 
 https://github.com/mateale1234/Minecraft-Earth-resourse
 
+7.Discord:
+https://projectearth.dev/discord
